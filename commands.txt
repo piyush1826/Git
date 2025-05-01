@@ -9,4 +9,4 @@
 9. cd - changes the current working directory.
 10. git add <-file name->
 11. git commit -m "some message"
-12.
+12. git push origin main
